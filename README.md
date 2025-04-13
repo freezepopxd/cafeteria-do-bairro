@@ -29,5 +29,6 @@ O layout se adapta automaticamente a diferentes tamanhos de tela (celular, table
    ```bash
    git clone https://github.com/freezepopxd/cafeteria-do-bairro.git
 
-📄 Licença
+## 📄 Licença
+
 Projeto acadêmico - sem fins comerciais.
