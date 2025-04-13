@@ -1,0 +1,22 @@
+/* Personalização do Botão */
+.btn-custom {
+    background-color: #7A4E23;
+    color: white;
+    border-radius: 25px;
+    font-size: 18px;
+}
+
+.btn-custom:hover {
+    background-color: #5C3B1F;
+}
+
+/* Estilizando a Imagem */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Adicionando um espaçamento adicional */
+section {
+    padding: 40px 0;
+}
